@@ -1,0 +1,950 @@
+measure,country_name,median,percentile
+mode,Argentina,0.0,0.0
+mode,Belarus,0.0,0.0
+mode,Brazil,0.0,0.0
+mode,Bulgaria,0.0,0.0
+mode,Chile,0.0,0.0
+mode,Colombia,0.0,0.0
+mode,Ecuador,0.0,0.0
+mode,Egypt,0.0,0.0
+mode,El Salvador,0.0,0.0
+mode,France,0.0,0.0
+mode,Greece,0.0,0.0
+mode,Guatemala,0.0,0.0
+mode,Honduras,0.0,0.0
+mode,Hungary,0.0,0.0
+mode,Israel,0.0,0.0
+mode,Kazakhstan,0.0,0.0
+mode,Luxembourg,0.0,0.0
+mode,Mexico,0.0,0.0
+mode,Morocco,0.0,0.0
+mode,Pakistan,0.0,0.0
+mode,Panama,0.0,0.0
+mode,Peru,0.0,0.0
+mode,Poland,0.0,0.0
+mode,Portugal,0.0,0.0
+mode,Romania,0.0,0.0
+mode,Spain,0.0,0.0
+mode,Turkey,0.0,0.0
+mode,Ukraine,0.0,0.0
+mode,"Venezuela, Bolivarian Republic of",0.0,0.0
+mode,Finland,0.0,0.0
+mode,Saudi Arabia,1.0,0.4166666666666667
+mode,Austria,1.0,0.4166666666666667
+mode,Belgium,1.0,0.4166666666666667
+mode,"Bolivia, Plurinational State of",1.0,0.4166666666666667
+mode,Canada,1.0,0.4166666666666667
+mode,Costa Rica,1.0,0.4166666666666667
+mode,Czech Republic,1.0,0.4166666666666667
+mode,Denmark,1.0,0.4166666666666667
+mode,Dominican Republic,1.0,0.4166666666666667
+mode,Estonia,1.0,0.4166666666666667
+mode,Australia,1.0,0.4166666666666667
+mode,Germany,1.0,0.4166666666666667
+mode,Hong Kong,1.0,0.4166666666666667
+mode,Iceland,1.0,0.4166666666666667
+mode,India,1.0,0.4166666666666667
+mode,Indonesia,1.0,0.4166666666666667
+mode,Ireland,1.0,0.4166666666666667
+mode,Italy,1.0,0.4166666666666667
+mode,Japan,1.0,0.4166666666666667
+mode,"Korea, Republic of",1.0,0.4166666666666667
+mode,Latvia,1.0,0.4166666666666667
+mode,Lithuania,1.0,0.4166666666666667
+mode,Malaysia,1.0,0.4166666666666667
+mode,Netherlands,1.0,0.4166666666666667
+mode,New Zealand,1.0,0.4166666666666667
+mode,Nicaragua,1.0,0.4166666666666667
+mode,Nigeria,1.0,0.4166666666666667
+mode,Norway,1.0,0.4166666666666667
+mode,Paraguay,1.0,0.4166666666666667
+mode,Philippines,1.0,0.4166666666666667
+mode,,1.0,0.4166666666666667
+mode,Singapore,1.0,0.4166666666666667
+mode,Slovakia,1.0,0.4166666666666667
+mode,South Africa,1.0,0.4166666666666667
+mode,Sweden,1.0,0.4166666666666667
+mode,Switzerland,1.0,0.4166666666666667
+mode,"Taiwan, Province of China",1.0,0.4166666666666667
+mode,Thailand,1.0,0.4166666666666667
+mode,United Arab Emirates,1.0,0.4166666666666667
+mode,United Kingdom,1.0,0.4166666666666667
+mode,United States,1.0,0.4166666666666667
+mode,Uruguay,1.0,0.4166666666666667
+mode,Viet Nam,1.0,0.4166666666666667
+instrumentalness,Iceland,0.0,0.0
+instrumentalness,Hong Kong,0.0,0.0
+instrumentalness,Panama,0.0,0.0
+instrumentalness,Paraguay,0.0,0.0
+instrumentalness,Guatemala,0.0,0.0
+instrumentalness,Philippines,0.0,0.0
+instrumentalness,Poland,0.0,0.0
+instrumentalness,France,0.0,0.0
+instrumentalness,Italy,0.0,0.0
+instrumentalness,Argentina,0.0,0.0
+instrumentalness,"Korea, Republic of",0.0,0.0
+instrumentalness,Malaysia,0.0,0.0
+instrumentalness,Japan,0.0,0.0
+instrumentalness,Israel,0.0,0.0
+instrumentalness,Netherlands,0.0,0.0
+instrumentalness,Nicaragua,0.0,0.0
+instrumentalness,Uruguay,0.0,0.0
+instrumentalness,Canada,0.0,0.0
+instrumentalness,Bulgaria,0.0,0.0
+instrumentalness,Brazil,0.0,0.0
+instrumentalness,"Bolivia, Plurinational State of",0.0,0.0
+instrumentalness,Chile,0.0,0.0
+instrumentalness,"Venezuela, Bolivarian Republic of",0.0,0.0
+instrumentalness,Belarus,0.0,0.0
+instrumentalness,Singapore,0.0,0.0
+instrumentalness,Egypt,0.0,0.0
+instrumentalness,Denmark,0.0,0.0
+instrumentalness,"Taiwan, Province of China",0.0,0.0
+instrumentalness,Costa Rica,0.0,0.0
+instrumentalness,Thailand,0.0,0.0
+instrumentalness,Colombia,0.0,0.0
+instrumentalness,Hungary,1.06e-06,0.4305555555555556
+instrumentalness,Mexico,1.07e-06,0.4444444444444444
+instrumentalness,India,1.11e-06,0.4583333333333333
+instrumentalness,United States,1.12e-06,0.4722222222222222
+instrumentalness,Greece,1.14e-06,0.4861111111111111
+instrumentalness,Peru,1.21e-06,0.5
+instrumentalness,Honduras,1.21e-06,0.5
+instrumentalness,El Salvador,1.21e-06,0.5
+instrumentalness,Sweden,1.33e-06,0.5416666666666666
+instrumentalness,Turkey,1.42e-06,0.5555555555555556
+instrumentalness,Viet Nam,1.69e-06,0.5694444444444444
+instrumentalness,Morocco,1.73e-06,0.5833333333333334
+instrumentalness,Ecuador,1.98e-06,0.5972222222222222
+instrumentalness,Spain,1.98e-06,0.5972222222222222
+instrumentalness,Norway,2e-06,0.625
+instrumentalness,Australia,2.31e-06,0.6388888888888888
+instrumentalness,United Kingdom,2.36e-06,0.6527777777777778
+instrumentalness,Slovakia,2.48e-06,0.6666666666666666
+instrumentalness,Ireland,2.62e-06,0.6805555555555556
+instrumentalness,,2.64e-06,0.6944444444444444
+instrumentalness,New Zealand,2.75e-06,0.7083333333333334
+instrumentalness,United Arab Emirates,3.23e-06,0.7222222222222222
+instrumentalness,Dominican Republic,3.23e-06,0.7222222222222222
+instrumentalness,Romania,3.29e-06,0.75
+instrumentalness,Belgium,3.33e-06,0.7638888888888888
+instrumentalness,Luxembourg,3.37e-06,0.7777777777777778
+instrumentalness,Switzerland,3.85e-06,0.7916666666666666
+instrumentalness,Czech Republic,4.15e-06,0.8055555555555556
+instrumentalness,Pakistan,4.23e-06,0.8194444444444444
+instrumentalness,Austria,4.63e-06,0.8333333333333334
+instrumentalness,Germany,5.36e-06,0.8472222222222222
+instrumentalness,Portugal,5.72e-06,0.8611111111111112
+instrumentalness,Ukraine,6.09e-06,0.875
+instrumentalness,Latvia,6.35e-06,0.8888888888888888
+instrumentalness,Saudi Arabia,6.35e-06,0.8888888888888888
+instrumentalness,Indonesia,8.64e-06,0.9166666666666666
+instrumentalness,Kazakhstan,9.01e-06,0.9305555555555556
+instrumentalness,Finland,1.61e-05,0.9444444444444444
+instrumentalness,Nigeria,3.28e-05,0.9583333333333334
+instrumentalness,Estonia,3.86e-05,0.9722222222222222
+instrumentalness,Lithuania,4.7e-05,0.9861111111111112
+instrumentalness,South Africa,0.0007925,1.0
+loudness,South Africa,-8.343,0.0
+loudness,Israel,-8.24,0.013888888888888888
+loudness,Viet Nam,-7.797,0.027777777777777776
+loudness,Pakistan,-7.73,0.041666666666666664
+loudness,Morocco,-7.715,0.05555555555555555
+loudness,Turkey,-7.675,0.06944444444444445
+loudness,Iceland,-7.653,0.08333333333333333
+loudness,Indonesia,-7.514,0.09722222222222222
+loudness,Philippines,-7.272,0.1111111111111111
+loudness,India,-7.193,0.125
+loudness,Greece,-6.936,0.1388888888888889
+loudness,Czech Republic,-6.894,0.1527777777777778
+loudness,Nigeria,-6.873,0.16666666666666666
+loudness,Kazakhstan,-6.839,0.18055555555555555
+loudness,Malaysia,-6.785,0.19444444444444445
+loudness,Sweden,-6.743,0.20833333333333334
+loudness,Portugal,-6.703,0.2222222222222222
+loudness,Poland,-6.7,0.2361111111111111
+loudness,Lithuania,-6.679,0.25
+loudness,Hungary,-6.653,0.2638888888888889
+loudness,Norway,-6.64,0.2777777777777778
+loudness,Ukraine,-6.601,0.2916666666666667
+loudness,Ireland,-6.549,0.3055555555555556
+loudness,New Zealand,-6.538,0.3194444444444444
+loudness,France,-6.525,0.3333333333333333
+loudness,Germany,-6.502,0.3472222222222222
+loudness,Slovakia,-6.404,0.3611111111111111
+loudness,Hong Kong,-6.401,0.375
+loudness,Latvia,-6.364,0.3888888888888889
+loudness,United States,-6.361000000000001,0.4027777777777778
+loudness,Belarus,-6.361,0.4166666666666667
+loudness,Austria,-6.333,0.4305555555555556
+loudness,Estonia,-6.294,0.4444444444444444
+loudness,Canada,-6.222,0.4583333333333333
+loudness,Saudi Arabia,-6.221,0.4722222222222222
+loudness,Australia,-6.21,0.4861111111111111
+loudness,Switzerland,-6.203,0.5
+loudness,Thailand,-6.182,0.5138888888888888
+loudness,United Arab Emirates,-6.182,0.5138888888888888
+loudness,Luxembourg,-6.161,0.5416666666666666
+loudness,Mexico,-6.147,0.5555555555555556
+loudness,United Kingdom,-6.129,0.5694444444444444
+loudness,Belgium,-6.129,0.5694444444444444
+loudness,Denmark,-6.096,0.5972222222222222
+loudness,Egypt,-6.05,0.6111111111111112
+loudness,,-5.968,0.625
+loudness,Singapore,-5.914,0.6388888888888888
+loudness,"Taiwan, Province of China",-5.878,0.6527777777777778
+loudness,Netherlands,-5.804,0.6666666666666666
+loudness,Italy,-5.737,0.6805555555555556
+loudness,Finland,-5.571,0.6944444444444444
+loudness,Romania,-5.386,0.7083333333333334
+loudness,Panama,-5.353,0.7222222222222222
+loudness,Guatemala,-5.329,0.7361111111111112
+loudness,Honduras,-5.274,0.75
+loudness,Nicaragua,-5.228,0.7638888888888888
+loudness,Dominican Republic,-5.182,0.7777777777777778
+loudness,Chile,-5.085,0.7916666666666666
+loudness,Spain,-5.061,0.8055555555555556
+loudness,"Korea, Republic of",-5.031,0.8194444444444444
+loudness,Bulgaria,-5.026,0.8333333333333334
+loudness,El Salvador,-5.009,0.8472222222222222
+loudness,"Venezuela, Bolivarian Republic of",-5.009,0.8472222222222222
+loudness,Argentina,-4.963,0.875
+loudness,Ecuador,-4.943,0.8888888888888888
+loudness,Peru,-4.915,0.9027777777777778
+loudness,Colombia,-4.915,0.9027777777777778
+loudness,Paraguay,-4.867,0.9305555555555556
+loudness,Costa Rica,-4.867,0.9305555555555556
+loudness,Uruguay,-4.774,0.9583333333333334
+loudness,"Bolivia, Plurinational State of",-4.687,0.9722222222222222
+loudness,Brazil,-4.424,0.9861111111111112
+loudness,Japan,-4.299,1.0
+danceability,Indonesia,0.522,0.0
+danceability,Malaysia,0.601,0.013888888888888888
+danceability,Israel,0.604,0.027777777777777776
+danceability,Japan,0.612,0.041666666666666664
+danceability,Ireland,0.612,0.041666666666666664
+danceability,Hong Kong,0.624,0.06944444444444445
+danceability,Saudi Arabia,0.629,0.08333333333333333
+danceability,Thailand,0.63,0.09722222222222222
+danceability,United Kingdom,0.635,0.1111111111111111
+danceability,Canada,0.638,0.125
+danceability,Australia,0.638,0.125
+danceability,United States,0.644,0.1527777777777778
+danceability,"Taiwan, Province of China",0.644,0.1527777777777778
+danceability,Sweden,0.644,0.1527777777777778
+danceability,New Zealand,0.645,0.19444444444444445
+danceability,Norway,0.646,0.20833333333333334
+danceability,United Arab Emirates,0.65,0.2222222222222222
+danceability,Philippines,0.652,0.2361111111111111
+danceability,India,0.656,0.25
+danceability,Singapore,0.66,0.2638888888888889
+danceability,Switzerland,0.664,0.2777777777777778
+danceability,Turkey,0.665,0.2916666666666667
+danceability,Latvia,0.666,0.3055555555555556
+danceability,,0.668,0.3194444444444444
+danceability,Brazil,0.669,0.3333333333333333
+danceability,Estonia,0.67,0.3472222222222222
+danceability,Belgium,0.671,0.3611111111111111
+danceability,"Korea, Republic of",0.671,0.3611111111111111
+danceability,Netherlands,0.675,0.3888888888888889
+danceability,Austria,0.675,0.3888888888888889
+danceability,Luxembourg,0.68,0.4166666666666667
+danceability,Viet Nam,0.694,0.4305555555555556
+danceability,Finland,0.697,0.4444444444444444
+danceability,Poland,0.698,0.4583333333333333
+danceability,Iceland,0.698,0.4583333333333333
+danceability,Morocco,0.7,0.4861111111111111
+danceability,Czech Republic,0.7,0.4861111111111111
+danceability,Italy,0.701,0.5138888888888888
+danceability,Bulgaria,0.704,0.5277777777777778
+danceability,Portugal,0.706,0.5416666666666666
+danceability,Slovakia,0.706,0.5416666666666666
+danceability,Germany,0.706,0.5416666666666666
+danceability,Belarus,0.708,0.5833333333333334
+danceability,Denmark,0.713,0.5972222222222222
+danceability,Pakistan,0.717,0.6111111111111112
+danceability,Paraguay,0.725,0.625
+danceability,"Bolivia, Plurinational State of",0.726,0.6388888888888888
+danceability,Lithuania,0.727,0.6527777777777778
+danceability,Spain,0.73,0.6666666666666666
+danceability,Argentina,0.73,0.6666666666666666
+danceability,Uruguay,0.731,0.6944444444444444
+danceability,Ukraine,0.733,0.7083333333333334
+danceability,Egypt,0.733,0.7083333333333334
+danceability,Greece,0.733,0.7083333333333334
+danceability,Hungary,0.734,0.75
+danceability,France,0.735,0.7638888888888888
+danceability,Panama,0.738,0.7777777777777778
+danceability,Mexico,0.744,0.7916666666666666
+danceability,Kazakhstan,0.747,0.8055555555555556
+danceability,Romania,0.75,0.8194444444444444
+danceability,Costa Rica,0.751,0.8333333333333334
+danceability,Guatemala,0.752,0.8472222222222222
+danceability,Dominican Republic,0.76,0.8611111111111112
+danceability,Nigeria,0.761,0.875
+danceability,South Africa,0.765,0.8888888888888888
+danceability,Nicaragua,0.767,0.9027777777777778
+danceability,Honduras,0.767,0.9027777777777778
+danceability,Peru,0.774,0.9305555555555556
+danceability,"Venezuela, Bolivarian Republic of",0.774,0.9305555555555556
+danceability,Chile,0.774,0.9305555555555556
+danceability,El Salvador,0.778,0.9722222222222222
+danceability,Colombia,0.778,0.9722222222222222
+danceability,Ecuador,0.783,1.0
+energy,Indonesia,0.462,0.0
+energy,Israel,0.529,0.013888888888888888
+energy,Viet Nam,0.557,0.027777777777777776
+energy,Pakistan,0.564,0.041666666666666664
+energy,India,0.564,0.041666666666666664
+energy,Philippines,0.575,0.06944444444444445
+energy,Malaysia,0.582,0.08333333333333333
+energy,Iceland,0.586,0.09722222222222222
+energy,Portugal,0.587,0.1111111111111111
+energy,Kazakhstan,0.591,0.125
+energy,South Africa,0.601,0.1388888888888889
+energy,United States,0.619,0.1527777777777778
+energy,Sweden,0.62,0.16666666666666666
+energy,Canada,0.62,0.16666666666666666
+energy,New Zealand,0.62,0.16666666666666666
+energy,"Taiwan, Province of China",0.621,0.20833333333333334
+energy,Hong Kong,0.621,0.20833333333333334
+energy,Morocco,0.624,0.2361111111111111
+energy,Ireland,0.626,0.25
+energy,United Arab Emirates,0.634,0.2638888888888889
+energy,Norway,0.636,0.2777777777777778
+energy,Turkey,0.639,0.2916666666666667
+energy,,0.646,0.3055555555555556
+energy,Australia,0.646,0.3055555555555556
+energy,Singapore,0.646,0.3055555555555556
+energy,Lithuania,0.647,0.3472222222222222
+energy,Thailand,0.65,0.3611111111111111
+energy,Latvia,0.651,0.375
+energy,Ukraine,0.653,0.3888888888888889
+energy,Belarus,0.657,0.4027777777777778
+energy,United Kingdom,0.658,0.4166666666666667
+energy,Luxembourg,0.666,0.4305555555555556
+energy,France,0.666,0.4305555555555556
+energy,Austria,0.668,0.4583333333333333
+energy,Belgium,0.668,0.4583333333333333
+energy,Germany,0.668,0.4583333333333333
+energy,Switzerland,0.668,0.4583333333333333
+energy,Saudi Arabia,0.67,0.5138888888888888
+energy,Czech Republic,0.673,0.5277777777777778
+energy,Slovakia,0.674,0.5416666666666666
+energy,Denmark,0.674,0.5416666666666666
+energy,Panama,0.681,0.5694444444444444
+energy,Hungary,0.683,0.5833333333333334
+energy,Netherlands,0.689,0.5972222222222222
+energy,Egypt,0.69,0.6111111111111112
+energy,Poland,0.691,0.625
+energy,Nigeria,0.693,0.6388888888888888
+energy,Costa Rica,0.694,0.6527777777777778
+energy,Estonia,0.694,0.6527777777777778
+energy,Greece,0.696,0.6805555555555556
+energy,Dominican Republic,0.698,0.6944444444444444
+energy,Italy,0.699,0.7083333333333334
+energy,"Venezuela, Bolivarian Republic of",0.7,0.7222222222222222
+energy,Nicaragua,0.7,0.7222222222222222
+energy,Chile,0.702,0.75
+energy,Colombia,0.705,0.7638888888888888
+energy,Uruguay,0.707,0.7777777777777778
+energy,Ecuador,0.707,0.7777777777777778
+energy,Argentina,0.707,0.7777777777777778
+energy,Peru,0.708,0.8194444444444444
+energy,Paraguay,0.708,0.8194444444444444
+energy,"Bolivia, Plurinational State of",0.712,0.8472222222222222
+energy,Spain,0.712,0.8472222222222222
+energy,El Salvador,0.712,0.8472222222222222
+energy,Finland,0.712,0.8472222222222222
+energy,Guatemala,0.712,0.8472222222222222
+energy,Honduras,0.712,0.8472222222222222
+energy,Mexico,0.7235,0.9305555555555556
+energy,"Korea, Republic of",0.733,0.9444444444444444
+energy,Brazil,0.734,0.9583333333333334
+energy,Romania,0.736,0.9722222222222222
+energy,Japan,0.79,0.9861111111111112
+energy,Bulgaria,0.812,1.0
+speechiness,Indonesia,0.0321,0.0
+speechiness,Malaysia,0.0373,0.013888888888888888
+speechiness,Iceland,0.0401,0.027777777777777776
+speechiness,India,0.0411,0.041666666666666664
+speechiness,Philippines,0.042,0.05555555555555555
+speechiness,Ireland,0.0421,0.06944444444444445
+speechiness,Thailand,0.0436,0.08333333333333333
+speechiness,Singapore,0.044,0.09722222222222222
+speechiness,Hong Kong,0.044,0.09722222222222222
+speechiness,Lithuania,0.0447,0.125
+speechiness,Australia,0.0447,0.125
+speechiness,Canada,0.0451,0.1527777777777778
+speechiness,New Zealand,0.0452,0.16666666666666666
+speechiness,"Taiwan, Province of China",0.0456,0.18055555555555555
+speechiness,United Kingdom,0.0457,0.19444444444444445
+speechiness,Finland,0.0461,0.20833333333333334
+speechiness,Israel,0.0465,0.2222222222222222
+speechiness,,0.0469,0.2361111111111111
+speechiness,United States,0.0474,0.25
+speechiness,United Arab Emirates,0.0478,0.2638888888888889
+speechiness,Saudi Arabia,0.0479,0.2777777777777778
+speechiness,Norway,0.0488,0.2916666666666667
+speechiness,Japan,0.0488,0.2916666666666667
+speechiness,Switzerland,0.049,0.3194444444444444
+speechiness,Netherlands,0.0496,0.3333333333333333
+speechiness,Viet Nam,0.0502,0.3472222222222222
+speechiness,"Korea, Republic of",0.0505,0.3611111111111111
+speechiness,Belgium,0.0507,0.375
+speechiness,Austria,0.0512,0.3888888888888889
+speechiness,Mexico,0.0519,0.4027777777777778
+speechiness,Luxembourg,0.0523,0.4166666666666667
+speechiness,Sweden,0.0524,0.4305555555555556
+speechiness,Ukraine,0.0547,0.4444444444444444
+speechiness,Estonia,0.0549,0.4583333333333333
+speechiness,Latvia,0.0551,0.4722222222222222
+speechiness,South Africa,0.0554,0.4861111111111111
+speechiness,Guatemala,0.0587,0.5
+speechiness,Uruguay,0.0589,0.5138888888888888
+speechiness,Germany,0.0601,0.5277777777777778
+speechiness,Argentina,0.0604,0.5416666666666666
+speechiness,Belarus,0.0605,0.5555555555555556
+speechiness,Egypt,0.0606,0.5694444444444444
+speechiness,"Bolivia, Plurinational State of",0.0624,0.5833333333333334
+speechiness,Nicaragua,0.0634,0.5972222222222222
+speechiness,Paraguay,0.0636,0.6111111111111112
+speechiness,Czech Republic,0.0645,0.625
+speechiness,Turkey,0.0648,0.6388888888888888
+speechiness,Romania,0.066,0.6527777777777778
+speechiness,Peru,0.0668,0.6666666666666666
+speechiness,El Salvador,0.0678,0.6805555555555556
+speechiness,Costa Rica,0.0678,0.6805555555555556
+speechiness,Honduras,0.0678,0.6805555555555556
+speechiness,Chile,0.068,0.7222222222222222
+speechiness,Denmark,0.0683,0.7361111111111112
+speechiness,Ecuador,0.0687,0.75
+speechiness,Kazakhstan,0.0694,0.7638888888888888
+speechiness,Spain,0.0701,0.7777777777777778
+speechiness,"Venezuela, Bolivarian Republic of",0.0713,0.7916666666666666
+speechiness,Pakistan,0.075,0.8055555555555556
+speechiness,Slovakia,0.0754,0.8194444444444444
+speechiness,Poland,0.0757,0.8333333333333334
+speechiness,Brazil,0.0759,0.8472222222222222
+speechiness,Portugal,0.0776,0.8611111111111112
+speechiness,Colombia,0.0785,0.875
+speechiness,Italy,0.0802,0.8888888888888888
+speechiness,Bulgaria,0.0804,0.9027777777777778
+speechiness,Hungary,0.0864,0.9166666666666666
+speechiness,France,0.088,0.9305555555555556
+speechiness,Panama,0.105,0.9444444444444444
+speechiness,Nigeria,0.109,0.9583333333333334
+speechiness,Greece,0.113,0.9722222222222222
+speechiness,Morocco,0.116,0.9861111111111112
+speechiness,Dominican Republic,0.13,1.0
+valence,Indonesia,0.344,0.0
+valence,Malaysia,0.392,0.013888888888888888
+valence,Israel,0.438,0.027777777777777776
+valence,Slovakia,0.448,0.041666666666666664
+valence,Czech Republic,0.458,0.05555555555555555
+valence,Hong Kong,0.465,0.06944444444444445
+valence,United Arab Emirates,0.471,0.08333333333333333
+valence,Viet Nam,0.474,0.09722222222222222
+valence,Singapore,0.478,0.1111111111111111
+valence,"Taiwan, Province of China",0.478,0.1111111111111111
+valence,United States,0.482,0.1388888888888889
+valence,Saudi Arabia,0.486,0.1527777777777778
+valence,Canada,0.488,0.16666666666666666
+valence,Poland,0.491,0.18055555555555555
+valence,Thailand,0.491,0.18055555555555555
+valence,Latvia,0.494,0.20833333333333334
+valence,Pakistan,0.495,0.2222222222222222
+valence,Philippines,0.501,0.2361111111111111
+valence,Kazakhstan,0.504,0.25
+valence,Ireland,0.504,0.25
+valence,South Africa,0.508,0.2777777777777778
+valence,Australia,0.51,0.2916666666666667
+valence,Italy,0.512,0.3055555555555556
+valence,Switzerland,0.519,0.3194444444444444
+valence,Estonia,0.519,0.3194444444444444
+valence,United Kingdom,0.521,0.3472222222222222
+valence,,0.524,0.3611111111111111
+valence,New Zealand,0.532,0.375
+valence,India,0.532,0.375
+valence,Greece,0.533,0.4027777777777778
+valence,Belgium,0.535,0.4166666666666667
+valence,Austria,0.535,0.4166666666666667
+valence,Turkey,0.538,0.4444444444444444
+valence,Sweden,0.539,0.4583333333333333
+valence,Germany,0.54,0.4722222222222222
+valence,Ukraine,0.542,0.4861111111111111
+valence,Iceland,0.542,0.4861111111111111
+valence,Portugal,0.544,0.5138888888888888
+valence,Norway,0.545,0.5277777777777778
+valence,Panama,0.547,0.5416666666666666
+valence,Lithuania,0.549,0.5555555555555556
+valence,"Korea, Republic of",0.552,0.5694444444444444
+valence,Luxembourg,0.554,0.5833333333333334
+valence,"Venezuela, Bolivarian Republic of",0.556,0.5972222222222222
+valence,Belarus,0.562,0.6111111111111112
+valence,Hungary,0.566,0.625
+valence,Costa Rica,0.577,0.6388888888888888
+valence,Denmark,0.579,0.6527777777777778
+valence,Netherlands,0.579,0.6527777777777778
+valence,Morocco,0.582,0.6805555555555556
+valence,France,0.59,0.6944444444444444
+valence,Spain,0.599,0.7083333333333334
+valence,Ecuador,0.601,0.7222222222222222
+valence,El Salvador,0.602,0.7361111111111112
+valence,Finland,0.602,0.7361111111111112
+valence,Paraguay,0.607,0.7638888888888888
+valence,Peru,0.607,0.7638888888888888
+valence,Colombia,0.607,0.7638888888888888
+valence,Honduras,0.611,0.8055555555555556
+valence,Dominican Republic,0.612,0.8194444444444444
+valence,Nigeria,0.625,0.8333333333333334
+valence,Nicaragua,0.632,0.8472222222222222
+valence,Brazil,0.65,0.8611111111111112
+valence,"Bolivia, Plurinational State of",0.652,0.875
+valence,Bulgaria,0.653,0.8888888888888888
+valence,Chile,0.658,0.9027777777777778
+valence,Romania,0.659,0.9166666666666666
+valence,Guatemala,0.659,0.9166666666666666
+valence,Japan,0.66,0.9444444444444444
+valence,Argentina,0.661,0.9583333333333334
+valence,Egypt,0.686,0.9722222222222222
+valence,Uruguay,0.7,0.9861111111111112
+valence,Mexico,0.702,1.0
+liveness,South Africa,0.102,0.0
+liveness,Philippines,0.11,0.013888888888888888
+liveness,Iceland,0.112,0.027777777777777776
+liveness,France,0.113,0.041666666666666664
+liveness,Hong Kong,0.113,0.041666666666666664
+liveness,Ireland,0.113,0.041666666666666664
+liveness,Morocco,0.113,0.041666666666666664
+liveness,Singapore,0.114,0.09722222222222222
+liveness,Australia,0.115,0.1111111111111111
+liveness,Malaysia,0.115,0.1111111111111111
+liveness,Ecuador,0.116,0.1388888888888889
+liveness,Indonesia,0.116,0.1388888888888889
+liveness,United Kingdom,0.116,0.1388888888888889
+liveness,Belgium,0.117,0.18055555555555555
+liveness,Bulgaria,0.117,0.18055555555555555
+liveness,Canada,0.117,0.18055555555555555
+liveness,Kazakhstan,0.117,0.18055555555555555
+liveness,Luxembourg,0.117,0.18055555555555555
+liveness,Netherlands,0.117,0.18055555555555555
+liveness,,0.117,0.18055555555555555
+liveness,Spain,0.117,0.18055555555555555
+liveness,"Korea, Republic of",0.118,0.2916666666666667
+liveness,New Zealand,0.118,0.2916666666666667
+liveness,Nicaragua,0.118,0.2916666666666667
+liveness,"Taiwan, Province of China",0.118,0.2916666666666667
+liveness,"Venezuela, Bolivarian Republic of",0.118,0.2916666666666667
+liveness,Austria,0.119,0.3611111111111111
+liveness,Costa Rica,0.119,0.3611111111111111
+liveness,El Salvador,0.119,0.3611111111111111
+liveness,Hungary,0.119,0.3611111111111111
+liveness,Panama,0.119,0.3611111111111111
+liveness,Peru,0.119,0.3611111111111111
+liveness,Switzerland,0.119,0.3611111111111111
+liveness,United States,0.119,0.3611111111111111
+liveness,Chile,0.12,0.4722222222222222
+liveness,Colombia,0.12,0.4722222222222222
+liveness,Dominican Republic,0.12,0.4722222222222222
+liveness,Guatemala,0.12,0.4722222222222222
+liveness,Honduras,0.12,0.4722222222222222
+liveness,United Arab Emirates,0.12,0.4722222222222222
+liveness,Germany,0.121,0.5555555555555556
+liveness,Lithuania,0.121,0.5555555555555556
+liveness,Paraguay,0.121,0.5555555555555556
+liveness,Romania,0.121,0.5555555555555556
+liveness,Uruguay,0.121,0.5555555555555556
+liveness,Saudi Arabia,0.122,0.625
+liveness,Portugal,0.122,0.625
+liveness,Sweden,0.122,0.625
+liveness,Ukraine,0.122,0.625
+liveness,Czech Republic,0.123,0.6805555555555556
+liveness,Slovakia,0.123,0.6805555555555556
+liveness,Viet Nam,0.123,0.6805555555555556
+liveness,India,0.124,0.7222222222222222
+liveness,Norway,0.124,0.7222222222222222
+liveness,Greece,0.126,0.75
+liveness,Nigeria,0.127,0.7638888888888888
+liveness,Egypt,0.128,0.7777777777777778
+liveness,Pakistan,0.128,0.7777777777777778
+liveness,Denmark,0.13,0.8055555555555556
+liveness,Finland,0.13,0.8055555555555556
+liveness,Argentina,0.131,0.8333333333333334
+liveness,Italy,0.131,0.8333333333333334
+liveness,Mexico,0.131,0.8333333333333334
+liveness,"Bolivia, Plurinational State of",0.134,0.875
+liveness,Latvia,0.134,0.875
+liveness,Poland,0.135,0.9027777777777778
+liveness,Turkey,0.135,0.9027777777777778
+liveness,Estonia,0.138,0.9305555555555556
+liveness,Israel,0.138,0.9305555555555556
+liveness,Japan,0.145,0.9583333333333334
+liveness,Thailand,0.147,0.9722222222222222
+liveness,Belarus,0.156,0.9861111111111112
+liveness,Brazil,0.247,1.0
+acousticness,Japan,0.0604,0.0
+acousticness,South Africa,0.0632,0.013888888888888888
+acousticness,Estonia,0.0823,0.027777777777777776
+acousticness,Bulgaria,0.0844,0.041666666666666664
+acousticness,Belarus,0.108,0.05555555555555555
+acousticness,Latvia,0.12,0.06944444444444445
+acousticness,Slovakia,0.123,0.08333333333333333
+acousticness,Czech Republic,0.123,0.08333333333333333
+acousticness,Finland,0.125,0.1111111111111111
+acousticness,Netherlands,0.129,0.125
+acousticness,Germany,0.13,0.1388888888888889
+acousticness,Austria,0.132,0.1527777777777778
+acousticness,Denmark,0.132,0.1527777777777778
+acousticness,United Arab Emirates,0.136,0.18055555555555555
+acousticness,Singapore,0.136,0.18055555555555555
+acousticness,Romania,0.137,0.20833333333333334
+acousticness,"Korea, Republic of",0.142,0.2222222222222222
+acousticness,Saudi Arabia,0.146,0.2361111111111111
+acousticness,Poland,0.148,0.25
+acousticness,Luxembourg,0.15,0.2638888888888889
+acousticness,,0.15,0.2638888888888889
+acousticness,Switzerland,0.15,0.2638888888888889
+acousticness,New Zealand,0.151,0.3055555555555556
+acousticness,United Kingdom,0.151,0.3055555555555556
+acousticness,Lithuania,0.151,0.3055555555555556
+acousticness,Australia,0.152,0.3472222222222222
+acousticness,Belgium,0.155,0.3611111111111111
+acousticness,Italy,0.158,0.375
+acousticness,Chile,0.163,0.3888888888888889
+acousticness,Colombia,0.163,0.3888888888888889
+acousticness,Norway,0.164,0.4166666666666667
+acousticness,Peru,0.169,0.4305555555555556
+acousticness,Ecuador,0.169,0.4305555555555556
+acousticness,Ukraine,0.171,0.4583333333333333
+acousticness,Iceland,0.173,0.4722222222222222
+acousticness,Ireland,0.174,0.4861111111111111
+acousticness,Hungary,0.176,0.5
+acousticness,Canada,0.177,0.5138888888888888
+acousticness,"Venezuela, Bolivarian Republic of",0.181,0.5277777777777778
+acousticness,Uruguay,0.182,0.5416666666666666
+acousticness,Argentina,0.183,0.5555555555555556
+acousticness,United States,0.183,0.5555555555555556
+acousticness,El Salvador,0.183,0.5555555555555556
+acousticness,"Bolivia, Plurinational State of",0.187,0.5972222222222222
+acousticness,Honduras,0.188,0.6111111111111112
+acousticness,Paraguay,0.188,0.6111111111111112
+acousticness,Thailand,0.188,0.6111111111111112
+acousticness,Guatemala,0.197,0.6527777777777778
+acousticness,Sweden,0.2,0.6666666666666666
+acousticness,Nicaragua,0.202,0.6805555555555556
+acousticness,Dominican Republic,0.213,0.6944444444444444
+acousticness,Costa Rica,0.213,0.6944444444444444
+acousticness,Turkey,0.214,0.7222222222222222
+acousticness,Panama,0.215,0.7361111111111112
+acousticness,Mexico,0.216,0.75
+acousticness,"Taiwan, Province of China",0.225,0.7638888888888888
+acousticness,Greece,0.233,0.7777777777777778
+acousticness,Malaysia,0.237,0.7916666666666666
+acousticness,Spain,0.247,0.8055555555555556
+acousticness,France,0.261,0.8194444444444444
+acousticness,Nigeria,0.262,0.8333333333333334
+acousticness,Philippines,0.262,0.8333333333333334
+acousticness,Hong Kong,0.274,0.8611111111111112
+acousticness,Kazakhstan,0.301,0.875
+acousticness,Egypt,0.331,0.8888888888888888
+acousticness,Pakistan,0.358,0.9027777777777778
+acousticness,Morocco,0.361,0.9166666666666666
+acousticness,Brazil,0.39,0.9305555555555556
+acousticness,Portugal,0.393,0.9444444444444444
+acousticness,Viet Nam,0.465,0.9583333333333334
+acousticness,Israel,0.47,0.9722222222222222
+acousticness,India,0.516,0.9861111111111112
+acousticness,Indonesia,0.609,1.0
+duration_ms,Belarus,159836.0,0.0
+duration_ms,Romania,160551.0,0.013888888888888888
+duration_ms,Ukraine,161142.0,0.027777777777777776
+duration_ms,Nigeria,166000.0,0.041666666666666664
+duration_ms,Brazil,167391.0,0.05555555555555555
+duration_ms,Germany,168131.0,0.06944444444444445
+duration_ms,Turkey,171382.0,0.08333333333333333
+duration_ms,Uruguay,171500.0,0.09722222222222222
+duration_ms,Argentina,171500.0,0.09722222222222222
+duration_ms,Sweden,171782.0,0.125
+duration_ms,Dominican Republic,171826.0,0.1388888888888889
+duration_ms,Greece,172577.0,0.1527777777777778
+duration_ms,Czech Republic,173731.0,0.16666666666666666
+duration_ms,Hungary,175459.0,0.18055555555555555
+duration_ms,Iceland,175459.0,0.18055555555555555
+duration_ms,Netherlands,175459.0,0.18055555555555555
+duration_ms,Poland,175459.0,0.18055555555555555
+duration_ms,Chile,175694.0,0.2361111111111111
+duration_ms,Austria,176492.0,0.25
+duration_ms,Denmark,178273.0,0.2638888888888889
+duration_ms,Norway,178273.0,0.2638888888888889
+duration_ms,France,178401.0,0.2916666666666667
+duration_ms,Finland,178666.0,0.3055555555555556
+duration_ms,Slovakia,179556.0,0.3194444444444444
+duration_ms,Estonia,180304.0,0.3333333333333333
+duration_ms,Lithuania,180304.0,0.3333333333333333
+duration_ms,Kazakhstan,180386.0,0.3611111111111111
+duration_ms,Belgium,182160.0,0.375
+duration_ms,Italy,183132.0,0.3888888888888889
+duration_ms,Switzerland,183374.0,0.4027777777777778
+duration_ms,Luxembourg,183813.0,0.4166666666666667
+duration_ms,Portugal,184061.0,0.4305555555555556
+duration_ms,Mexico,184165.0,0.4444444444444444
+duration_ms,Latvia,184516.0,0.4583333333333333
+duration_ms,Guatemala,185722.0,0.4722222222222222
+duration_ms,Paraguay,186000.0,0.4861111111111111
+duration_ms,"Bolivia, Plurinational State of",186096.0,0.5
+duration_ms,United States,186365.0,0.5138888888888888
+duration_ms,United Kingdom,186365.0,0.5138888888888888
+duration_ms,Costa Rica,186455.0,0.5416666666666666
+duration_ms,Colombia,186463.0,0.5555555555555556
+duration_ms,Singapore,188179.0,0.5694444444444444
+duration_ms,"Korea, Republic of",188266.0,0.5833333333333334
+duration_ms,Honduras,188826.0,0.5972222222222222
+duration_ms,Canada,188828.0,0.6111111111111112
+duration_ms,Ecuador,189668.0,0.625
+duration_ms,Morocco,189692.0,0.6388888888888888
+duration_ms,"Taiwan, Province of China",189706.0,0.6527777777777778
+duration_ms,El Salvador,190004.0,0.6666666666666666
+duration_ms,Spain,190496.0,0.6805555555555556
+duration_ms,"Venezuela, Bolivarian Republic of",190560.0,0.6944444444444444
+duration_ms,Nicaragua,190560.0,0.6944444444444444
+duration_ms,,190666.0,0.7222222222222222
+duration_ms,Panama,191945.0,0.7361111111111112
+duration_ms,Peru,192120.0,0.75
+duration_ms,Israel,193000.0,0.7638888888888888
+duration_ms,Australia,194920.0,0.7777777777777778
+duration_ms,Bulgaria,195348.0,0.7916666666666666
+duration_ms,Pakistan,196897.0,0.8055555555555556
+duration_ms,Ireland,196900.0,0.8194444444444444
+duration_ms,United Arab Emirates,200255.0,0.8333333333333334
+duration_ms,New Zealand,200255.0,0.8333333333333334
+duration_ms,Egypt,204773.0,0.8611111111111112
+duration_ms,Saudi Arabia,208211.0,0.875
+duration_ms,Malaysia,209259.0,0.8888888888888888
+duration_ms,Viet Nam,211111.0,0.9027777777777778
+duration_ms,India,214357.0,0.9166666666666666
+duration_ms,Hong Kong,216442.0,0.9305555555555556
+duration_ms,Philippines,218051.0,0.9444444444444444
+duration_ms,Japan,222714.0,0.9583333333333334
+duration_ms,Thailand,224173.0,0.9722222222222222
+duration_ms,Indonesia,231100.0,0.9861111111111112
+duration_ms,South Africa,288052.0,1.0
+tempo,Pakistan,98.003,0.0
+tempo,India,98.022,0.013888888888888888
+tempo,Chile,99.994,0.027777777777777776
+tempo,Uruguay,100.046,0.041666666666666664
+tempo,Argentina,100.941,0.05555555555555555
+tempo,Colombia,103.001,0.06944444444444445
+tempo,Peru,103.001,0.06944444444444445
+tempo,Ecuador,103.008,0.09722222222222222
+tempo,"Venezuela, Bolivarian Republic of",104.885,0.1111111111111111
+tempo,Paraguay,105.008,0.125
+tempo,El Salvador,105.011,0.1388888888888889
+tempo,Panama,105.029,0.1527777777777778
+tempo,"Bolivia, Plurinational State of",106.981,0.16666666666666666
+tempo,Costa Rica,106.981,0.16666666666666666
+tempo,Honduras,109.935,0.19444444444444445
+tempo,Hungary,109.969,0.20833333333333334
+tempo,Egypt,110.019,0.2222222222222222
+tempo,Spain,111.93,0.2361111111111111
+tempo,Nicaragua,112.648,0.25
+tempo,Nigeria,112.988,0.2638888888888889
+tempo,South Africa,113.002,0.2777777777777778
+tempo,Saudi Arabia,115.842,0.2916666666666667
+tempo,Italy,116.033,0.3055555555555556
+tempo,Turkey,116.145,0.3194444444444444
+tempo,,117.896,0.3333333333333333
+tempo,Dominican Republic,117.939,0.3472222222222222
+tempo,Philippines,118.022,0.3611111111111111
+tempo,Kazakhstan,118.026,0.375
+tempo,Greece,118.053,0.3888888888888889
+tempo,United Arab Emirates,119.008,0.4027777777777778
+tempo,Ukraine,119.116,0.4166666666666667
+tempo,"Korea, Republic of",119.957,0.4305555555555556
+tempo,Canada,119.973,0.4444444444444444
+tempo,Iceland,119.973,0.4444444444444444
+tempo,Portugal,119.979,0.4722222222222222
+tempo,Morocco,119.992,0.4861111111111111
+tempo,Singapore,120.001,0.5
+tempo,Malaysia,120.048,0.5138888888888888
+tempo,Indonesia,120.049,0.5277777777777778
+tempo,New Zealand,120.151,0.5416666666666666
+tempo,United States,121.964,0.5555555555555556
+tempo,Australia,121.964,0.5555555555555556
+tempo,Lithuania,121.974,0.5833333333333334
+tempo,Ireland,122.017,0.5972222222222222
+tempo,Norway,122.029,0.6111111111111112
+tempo,Switzerland,122.769,0.625
+tempo,France,122.949,0.6388888888888888
+tempo,Israel,122.98,0.6527777777777778
+tempo,Denmark,123.041,0.6666666666666666
+tempo,United Kingdom,123.069,0.6805555555555556
+tempo,Luxembourg,123.994,0.6944444444444444
+tempo,Latvia,124.045,0.7083333333333334
+tempo,Belgium,124.053,0.7222222222222222
+tempo,Guatemala,124.934,0.7361111111111112
+tempo,Viet Nam,124.987,0.75
+tempo,Thailand,124.987,0.75
+tempo,Sweden,124.987,0.75
+tempo,"Taiwan, Province of China",124.994,0.7916666666666666
+tempo,Belarus,125.009,0.8055555555555556
+tempo,Germany,125.009,0.8055555555555556
+tempo,Austria,125.023,0.8333333333333334
+tempo,Netherlands,125.023,0.8333333333333334
+tempo,Mexico,125.045,0.8611111111111112
+tempo,Estonia,125.605,0.875
+tempo,Poland,126.462,0.8888888888888888
+tempo,Finland,126.979,0.9027777777777778
+tempo,Slovakia,127.939,0.9166666666666666
+tempo,Brazil,129.929,0.9305555555555556
+tempo,Czech Republic,129.945,0.9444444444444444
+tempo,Romania,130.004,0.9583333333333334
+tempo,Japan,130.016,0.9722222222222222
+tempo,Hong Kong,133.015,0.9861111111111112
+tempo,Bulgaria,140.054,1.0
+time_signature,Mexico,3.0,0.0
+time_signature,Dominican Republic,4.0,0.013888888888888888
+time_signature,Thailand,4.0,0.013888888888888888
+time_signature,Colombia,4.0,0.013888888888888888
+time_signature,"Taiwan, Province of China",4.0,0.013888888888888888
+time_signature,Costa Rica,4.0,0.013888888888888888
+time_signature,Switzerland,4.0,0.013888888888888888
+time_signature,Czech Republic,4.0,0.013888888888888888
+time_signature,Sweden,4.0,0.013888888888888888
+time_signature,Denmark,4.0,0.013888888888888888
+time_signature,Spain,4.0,0.013888888888888888
+time_signature,Estonia,4.0,0.013888888888888888
+time_signature,South Africa,4.0,0.013888888888888888
+time_signature,Ecuador,4.0,0.013888888888888888
+time_signature,Slovakia,4.0,0.013888888888888888
+time_signature,Egypt,4.0,0.013888888888888888
+time_signature,Singapore,4.0,0.013888888888888888
+time_signature,El Salvador,4.0,0.013888888888888888
+time_signature,Saudi Arabia,4.0,0.013888888888888888
+time_signature,,4.0,0.013888888888888888
+time_signature,United States,4.0,0.013888888888888888
+time_signature,Hungary,4.0,0.013888888888888888
+time_signature,Romania,4.0,0.013888888888888888
+time_signature,Latvia,4.0,0.013888888888888888
+time_signature,Austria,4.0,0.013888888888888888
+time_signature,"Venezuela, Bolivarian Republic of",4.0,0.013888888888888888
+time_signature,Belarus,4.0,0.013888888888888888
+time_signature,Uruguay,4.0,0.013888888888888888
+time_signature,Belgium,4.0,0.013888888888888888
+time_signature,Argentina,4.0,0.013888888888888888
+time_signature,"Bolivia, Plurinational State of",4.0,0.013888888888888888
+time_signature,United Kingdom,4.0,0.013888888888888888
+time_signature,Brazil,4.0,0.013888888888888888
+time_signature,United Arab Emirates,4.0,0.013888888888888888
+time_signature,Bulgaria,4.0,0.013888888888888888
+time_signature,Ukraine,4.0,0.013888888888888888
+time_signature,Canada,4.0,0.013888888888888888
+time_signature,Turkey,4.0,0.013888888888888888
+time_signature,Israel,4.0,0.013888888888888888
+time_signature,Iceland,4.0,0.013888888888888888
+time_signature,Nicaragua,4.0,0.013888888888888888
+time_signature,India,4.0,0.013888888888888888
+time_signature,New Zealand,4.0,0.013888888888888888
+time_signature,Indonesia,4.0,0.013888888888888888
+time_signature,Netherlands,4.0,0.013888888888888888
+time_signature,Ireland,4.0,0.013888888888888888
+time_signature,Morocco,4.0,0.013888888888888888
+time_signature,Nigeria,4.0,0.013888888888888888
+time_signature,Italy,4.0,0.013888888888888888
+time_signature,Malaysia,4.0,0.013888888888888888
+time_signature,Japan,4.0,0.013888888888888888
+time_signature,Luxembourg,4.0,0.013888888888888888
+time_signature,Kazakhstan,4.0,0.013888888888888888
+time_signature,Lithuania,4.0,0.013888888888888888
+time_signature,Chile,4.0,0.013888888888888888
+time_signature,Greece,4.0,0.013888888888888888
+time_signature,Viet Nam,4.0,0.013888888888888888
+time_signature,Portugal,4.0,0.013888888888888888
+time_signature,Australia,4.0,0.013888888888888888
+time_signature,Poland,4.0,0.013888888888888888
+time_signature,France,4.0,0.013888888888888888
+time_signature,Philippines,4.0,0.013888888888888888
+time_signature,Germany,4.0,0.013888888888888888
+time_signature,Peru,4.0,0.013888888888888888
+time_signature,"Korea, Republic of",4.0,0.013888888888888888
+time_signature,Paraguay,4.0,0.013888888888888888
+time_signature,Guatemala,4.0,0.013888888888888888
+time_signature,Panama,4.0,0.013888888888888888
+time_signature,Honduras,4.0,0.013888888888888888
+time_signature,Pakistan,4.0,0.013888888888888888
+time_signature,Hong Kong,4.0,0.013888888888888888
+time_signature,Norway,4.0,0.013888888888888888
+time_signature,Finland,4.0,0.013888888888888888
+key,Pakistan,4.0,0.0
+key,Saudi Arabia,5.0,0.013888888888888888
+key,Bulgaria,5.0,0.013888888888888888
+key,Denmark,5.0,0.013888888888888888
+key,Egypt,5.0,0.013888888888888888
+key,Australia,5.0,0.013888888888888888
+key,India,5.0,0.013888888888888888
+key,Indonesia,5.0,0.013888888888888888
+key,Israel,5.0,0.013888888888888888
+key,"Korea, Republic of",5.0,0.013888888888888888
+key,Romania,5.0,0.013888888888888888
+key,South Africa,5.0,0.013888888888888888
+key,Sweden,5.0,0.013888888888888888
+key,Argentina,6.0,0.18055555555555555
+key,Austria,6.0,0.18055555555555555
+key,Belarus,6.0,0.18055555555555555
+key,Belgium,6.0,0.18055555555555555
+key,"Bolivia, Plurinational State of",6.0,0.18055555555555555
+key,Brazil,6.0,0.18055555555555555
+key,Canada,6.0,0.18055555555555555
+key,Chile,6.0,0.18055555555555555
+key,Colombia,6.0,0.18055555555555555
+key,Costa Rica,6.0,0.18055555555555555
+key,Czech Republic,6.0,0.18055555555555555
+key,Dominican Republic,6.0,0.18055555555555555
+key,Ecuador,6.0,0.18055555555555555
+key,El Salvador,6.0,0.18055555555555555
+key,Estonia,6.0,0.18055555555555555
+key,France,6.0,0.18055555555555555
+key,Germany,6.0,0.18055555555555555
+key,Greece,6.0,0.18055555555555555
+key,Guatemala,6.0,0.18055555555555555
+key,Honduras,6.0,0.18055555555555555
+key,Hong Kong,6.0,0.18055555555555555
+key,Hungary,6.0,0.18055555555555555
+key,Iceland,6.0,0.18055555555555555
+key,Ireland,6.0,0.18055555555555555
+key,Italy,6.0,0.18055555555555555
+key,Japan,6.0,0.18055555555555555
+key,Kazakhstan,6.0,0.18055555555555555
+key,Latvia,6.0,0.18055555555555555
+key,Lithuania,6.0,0.18055555555555555
+key,Luxembourg,6.0,0.18055555555555555
+key,Malaysia,6.0,0.18055555555555555
+key,Mexico,6.0,0.18055555555555555
+key,Morocco,6.0,0.18055555555555555
+key,Netherlands,6.0,0.18055555555555555
+key,New Zealand,6.0,0.18055555555555555
+key,Nicaragua,6.0,0.18055555555555555
+key,Nigeria,6.0,0.18055555555555555
+key,Norway,6.0,0.18055555555555555
+key,Panama,6.0,0.18055555555555555
+key,Paraguay,6.0,0.18055555555555555
+key,Peru,6.0,0.18055555555555555
+key,Philippines,6.0,0.18055555555555555
+key,Poland,6.0,0.18055555555555555
+key,Portugal,6.0,0.18055555555555555
+key,,6.0,0.18055555555555555
+key,Singapore,6.0,0.18055555555555555
+key,Slovakia,6.0,0.18055555555555555
+key,Spain,6.0,0.18055555555555555
+key,Switzerland,6.0,0.18055555555555555
+key,"Taiwan, Province of China",6.0,0.18055555555555555
+key,Turkey,6.0,0.18055555555555555
+key,United Arab Emirates,6.0,0.18055555555555555
+key,United Kingdom,6.0,0.18055555555555555
+key,United States,6.0,0.18055555555555555
+key,Uruguay,6.0,0.18055555555555555
+key,"Venezuela, Bolivarian Republic of",6.0,0.18055555555555555
+key,Viet Nam,6.0,0.18055555555555555
+key,Finland,6.0,0.18055555555555555
+key,Thailand,7.0,0.9861111111111112
+key,Ukraine,7.0,0.9861111111111112
