@@ -11,20 +11,20 @@ Preview:
 ### Findings: Regional Musical Trends
 
 **North America (USA, Canada, Mexico)**
-- **Mexico** stands out for high **valence** (happier, more positive music).
-- **USA and Canada** have lower **danceability**, suggesting their popular songs might be less rhythmically engaging compared to Latin America.
+- **Mexico** stands out for high valence (happier, more positive music).
+- **USA and Canada** have lower danceability, suggesting their popular songs might be less rhythmically engaging compared to Latin America.
 - **USA and Canada** did not appear frequently in the top ranks, suggesting a more balanced mix rather than extreme values.
 
 **Latin America (Brazil, Argentina, Colombia, Peru, Chile, Uruguay, Ecuador)**
 - **Very high in danceability**: Ecuador, Colombia, Venezuela, and Peru rank at the top.
-- **High energy and loudness**: Brazil, Bolivia, Uruguay, and Colombia have music with **intense, high-energy beats**.
+- **High energy and loudness**: Brazil, Bolivia, Uruguay, and Colombia have music with intense, high-energy beats.
 - **High valence**: Latin American countries often appear in the happiest-sounding music rankings.
 - **Lower in instrumentalness**: Latin American music relies more on vocals rather than instrumentals.
 
 **Europe (UK, France, Germany, Scandinavia, Eastern Europe)**
 - **Eastern Europe has high energy**: Bulgaria, Romania, and Finland rank among the most energetic.
 - **Scandinavia prefers instrumentals**: Finland and Estonia have a high instrumentalness score.
-- **Western Europe varies**: France and Italy have high **speechiness**, meaning their music includes more spoken-word elements (possibly due to rap influence).
+- **Western Europe varies**: France and Italy have high speechiness, meaning their music includes more spoken-word elements (possibly due to rap influence).
 - **Czech Republic & Slovakia have faster tempos**: They frequently appear in the highest tempo rankings.
 
 **Africa (South Africa, Nigeria, Egypt, Morocco)**
@@ -53,18 +53,18 @@ Preview:
 ### Key Takeaways
 
 1. **Latin America = Danceable & Happy**  
-   - High **danceability** and **valence** make Latin music lively and positive.  
+   - High danceability and valence make Latin music lively and positive.  
    - Loud and energetic, with a focus on rhythm and vocals.
 
 2. **Europe = Diverse, with Eastern Europe favoring energetic music**  
-   - Eastern European countries have **fast tempos and high energy**.  
-   - Scandinavia and parts of Western Europe like **instrumental-heavy** music.
+   - Eastern European countries have fast tempos and high energy.  
+   - Scandinavia and parts of Western Europe like instrumental-heavy music.
 
 3. **Africa & Middle East = Rhythmic, Spoken-Word Influence**  
-   - Nigeria, Morocco, and Egypt rank high in **speechiness** and **danceability**.  
-   - Middle Eastern countries favor **acoustic sounds and live music elements**.
+   - Nigeria, Morocco, and Egypt rank high in speechiness and danceability.  
+   - Middle Eastern countries favor acoustic sounds and live music elements.
 
 4. **Asia = High Energy (Japan/Korea) vs. Acoustic (India/Indonesia)**  
-   - **Japan and South Korea love high-energy, loud music**.  
-   - **India, Indonesia, and Vietnam lean towards acoustic, traditional sounds**.
+   - Japan and South Korea love high-energy, loud music.  
+   - India, Indonesia, and Vietnam lean towards acoustic, traditional sounds.
 
