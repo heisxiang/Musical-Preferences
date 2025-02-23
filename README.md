@@ -1,8 +1,12 @@
 # Musical-Preferences
 Global Musical Preferences
 
-Original data and in depth ETL and data validation performed here:
+I performed in depth ETL and data validation here:
 https://www.kaggle.com/code/heisxiang/top-spotify-songs-etl
+
+Preview:
+
+<img src="https://github.com/user-attachments/assets/945f7f70-5aca-43db-931e-959c0393dcbd" width="720">
 
 ### Findings: Regional Musical Trends
 
